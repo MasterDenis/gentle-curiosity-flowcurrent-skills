@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "gentle-curiosity-flowcurrent",
+      "description": "A flow-like internal operating mode for agents using gentle curiosity, accepted reachability, knowledge cracks, and feedback-guided task immersion.",
+      "version": "2.0.0",
+      "path": "skills/gentle-curiosity-flowcurrent/SKILL.md",
+      "archive": "publishing/gentle-curiosity-flowcurrent.tar.gz",
+      "source_inspiration": "https://flowstateguide.com/",
+      "tags": [
+        "gentle-curiosity",
+        "flow-state",
+        "agent-operating-mode",
+        "task-immersion",
+        "knowledge-cracks"
+      ]
+    }
+  ]
+}
